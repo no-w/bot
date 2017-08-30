@@ -1,0 +1,17 @@
+{
+  "name": "now-bot",
+  "version": "1.0.0",
+  "description": "Bot for the NOW project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "nodemon": "^1.11.0",
+    "restify": "^5.2.0"
+  }
+}
